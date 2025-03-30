@@ -26,7 +26,7 @@ const Home: React.FC = () => {
           <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
             Easy Setup
           </h3>
-          <p className="text-gray-600 dark:text-gray-300 mt-2">
+          <p className="text-gray-600 dark:text-gray-300 mt-2 text-sm">
             Get started quickly with minimal configuration.
           </p>
         </div>
@@ -34,7 +34,7 @@ const Home: React.FC = () => {
           <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
             Modern Design
           </h3>
-          <p className="text-gray-600 dark:text-gray-300 mt-2">
+          <p className="text-gray-600 dark:text-gray-300 mt-2 text-sm">
             Built with Tailwind CSS for a sleek and responsive UI.
           </p>
         </div>
@@ -42,7 +42,7 @@ const Home: React.FC = () => {
           <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
             Optimized Performance
           </h3>
-          <p className="text-gray-600 dark:text-gray-300 mt-2">
+          <p className="text-gray-600 dark:text-gray-300 mt-2 text-sm">
             Designed to be lightweight and fast for better user experience.
           </p>
         </div>
